@@ -1,0 +1,9 @@
+1. Comentar todo el codigo de la web
+
+2. HOME:    #FALTA REESTRUCTURAR EL FRONTEND Y METER GRAFICA DE RENTABILIDAD X CASA Y RENTABILIDAD POR MES
+    #MIRAR TAMBIEN QUÉ DATAFRAME EXACTAMENTE ES EL QUE SE QUIERE MOSTRAR
+
+3. HOME / inversores:   QUe muestre el dinero que ha metido y en el que se ha comparacion_inversion_estancado   
+    para cada inversor
+
+5. Mostrar una comparativa del resultado real y el esperado
