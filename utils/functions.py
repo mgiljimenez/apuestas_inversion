@@ -8,10 +8,13 @@ class busqueda_inversion():
     def __init__(self):
         pass
     def apuesta(X1, X2):
-        if 1/(X2-1)<=X1-1:
-            print(f"Combinacion encontrada: {X1},{X2}")
-            return(True)
-        else:
+        try:
+            if 1/(X2-1)<=X1-1:
+                print(f"Combinacion encontrada: {X1},{X2}")
+                return(True)
+            else:
+                return(False)
+        except:
             return(False)
     # Importamos todo el código DOM de la web de EEUU
     def descargar_datos_partidos(url):
