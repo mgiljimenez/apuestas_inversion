@@ -29,8 +29,8 @@ VALUES ('Cuenta_Banco_Central'),
 ('Zebet_apostado'),
 ('Bet365_casa'),
 ('Bet365_apostado'),
-('MiguelGJ_inversor'),
-('JulioGN_inversor');
+('Inversor_1'),
+('Inverson_2');
 
 
 INSERT INTO casas_apuesta (nombre, descripcion, url, id_cuenta_casa, id_cuenta_apostado)
@@ -49,9 +49,11 @@ VALUES ('1xbet', 'Descripción', 'https://1xbet.es/', 3, 4),
 ('Bet365', 'Descripción', 'https://www.bet365.es/', 27, 28);
 
 INSERT INTO inversores (nombre, fecha_registro, id_cuenta)
-VALUES ('Miguel Gil Jimenez', '2023-05-01', 29),
-('Julio Gil Navarro', '2023-05-01', 30);
+VALUES ('Nombre inversor 1', '2023-01-01', 29),
+('Nombre inversor 2', '2023-01-01', 30);
 
 INSERT INTO deportes (deporte)
 VALUES ('Tenis'),
-('Baloncesto');
+('Baloncesto'),
+('Otro')
+('Futbol');
