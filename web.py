@@ -21,6 +21,7 @@ with st.sidebar:
     selected = option_menu("Menu", ["Home", 'Inversiones',"Mover dinero"], 
         icons=['graph-up-arrow', 'plus-circle',"coin"], menu_icon="grid", default_index=0)
 
+
 ##################
 ####PÁGINA HOME###
 ##################
