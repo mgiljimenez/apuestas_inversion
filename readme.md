@@ -39,3 +39,23 @@ Para detectar las surebets, también hice uso de la página [Surebet.com](https:
 Este proyecto no se trata solo de números y monetización; es un viaje de crecimiento y aprendizaje en el universo del análisis de datos. ¿Quieres aprender más o simplemente charlar sobre esta emocionante travesía? ¡Conéctate conmigo y hagamos que suceda!
 
 [LinkedIn](https://www.linkedin.com/in/miguel-gil-jimenez/)
+
+**Ejemplo de una inversión real realizada:**
+Apostamos en un partido de tenis a que el total de juegos es impar en winamax y par en Betway. Una de los casos se va a dar por lo que perderemos el dinero en una de las casas y lo ganaremos en la otra:
+
+  -Inversión en casa Winamax: 42.00€
+
+  -Inversión en Betway: 58.00€
+
+  -TOTAL INVERTIDO: 100€
+
+  -TOTAL GANADO: 110,2€  
+  
+  -BENEFICIO: 10,2€
+
+  -RENTABILIAD DE LA INVERSIÓN: 10.2%
+
+<img src="utils/img/winamax.png" alt="Ejemplo de Imagen" width="400" height="200">
+<img src="utils/img/betway.png" alt="Ejemplo de Imagen" width="400" height="200">
+
+
