@@ -55,5 +55,5 @@ VALUES ('Nombre inversor 1', '2023-01-01', 29),
 INSERT INTO deportes (deporte)
 VALUES ('Tenis'),
 ('Baloncesto'),
-('Otro')
+('Otro'),
 ('Futbol');
